@@ -2,7 +2,7 @@
   "serverConfig": {
     "type": "shopify",
     "url": "https://cluewear.com/",
-    "accessToken": "PASTE-YOUR-ACCESS-TOKEN-HERE"
+    "accessToken": "765729ea4990b72b20aca27f8d5b4185"
   },
   "defaultDarkTheme": false,
   "enableFirebase": false,
