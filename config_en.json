@@ -1,1 +1,35 @@
-{"HorizonLayout":[{"layout":"logo","image":"https://raw.githubusercontent.com/ramyaminn/config-cluewear-com/main/assets/unnamed-white.png","text":""}]}
+{
+  "serverConfig": {
+    "type": "shopify",
+    "url": "https://cluewear.com/",
+    "accessToken": "PASTE-YOUR-ACCESS-TOKEN-HERE"
+  },
+  "defaultDarkTheme": false,
+  "enableFirebase": false,
+  "language": "en",
+  "languages": [
+    {
+      "code": "en",
+      "text": "English",
+      "icon": "🇺🇸"
+    }
+  ],
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "image": "https://raw.githubusercontent.com/ramyaminn/config-cluewear-com/main/assets/unnamed-white.png",
+      "text": "ClueWear"
+    }
+  ],
+  "tabBar": {
+    "style": "backgroundColor",
+    "color": "#ffffff"
+  },
+  "appRating": {
+    "enabled": false
+  },
+  "enableProductReviews": true,
+  "enableSmartChat": false,
+  "notStrictVisibleVariant": true,
+  "enableAttributesConfigurableProduct": true
+}
