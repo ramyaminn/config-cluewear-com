@@ -16,15 +16,62 @@
   ],
   "HorizonLayout": [
     {
+      "key": "logoSection",
       "layout": "logo",
       "image": "https://raw.githubusercontent.com/ramyaminn/config-cluewear-com/main/assets/unnamed-white.png",
-      "text": "ClueWear"
+      "text": "ClueWear",
+      "showCart": false,
+      "showLogo": true,
+      "showMenu": true
+    },
+    {
+      "key": "bannerMain",
+      "layout": "bannerImage",
+      "isSlider": true,
+      "autoPlay": true,
+      "height": 0.3,
+      "items": [
+        {
+          "image": "https://i.imgur.com/S7Zj80N.jpeg",
+          "category": "gid://shopify/Collection/440937742644"
+        }
+      ]
     }
   ],
   "tabBar": {
     "style": "backgroundColor",
     "color": "#ffffff"
   },
+  "TabBar": [
+    {
+      "key": "home",
+      "icon": "home",
+      "label": "Home",
+      "layout": "home",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "key": "collections",
+      "icon": "rectangle_grid_2x2",
+      "label": "Collections",
+      "layout": "category",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "key": "cart",
+      "icon": "shopping_bag_sharp",
+      "label": "Cart",
+      "layout": "cart",
+      "fontFamily": "MaterialIcons"
+    },
+    {
+      "key": "profile",
+      "icon": "person",
+      "label": "Profile",
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons"
+    }
+  ],
   "appRating": {
     "enabled": false
   },
