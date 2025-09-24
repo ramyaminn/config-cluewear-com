@@ -1112,17 +1112,6 @@
         },
         "subDrawerItem": {}
     },
-    "Payments": {
-        "enabled": true,
-        "methods": {
-            "webview": {
-            "enabled": true,
-            "title": "Checkout",
-            "type": "webview",
-            "checkoutUrl": "https://cluewear.com/checkout"
-            }
-        }
-    },
 
     "Datetime": "12:46:42 - Tue 15 Jul"
 }
