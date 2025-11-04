@@ -1,7 +1,9 @@
 {
     "HorizonLayout": [
         {
+            "key": "ITEKhRaGXB",
             "image": "https://raw.githubusercontent.com/fluxbuilder/images/main/2025/10/4bb3982ccc74/1760513353062.png",
+            "isBulk": null,
             "layout": "logo",
             "opacity": 1,
             "iconSize": 20,
@@ -22,11 +24,13 @@
             "showSearch": true,
             "iconOpacity": 0,
             "productType": true,
+            "isPreviewing": null,
             "showBadgeCart": false,
             "iconSpreadRadius": 0,
             "showNotification": true
         },
         {
+            "key": "EFzeEyYhkxKC",
             "size": 0.8,
             "type": "icon",
             "wrap": false,
@@ -164,6 +168,7 @@
                     "productListAnimationConfig": null
                 }
             ],
+            "isBulk": false,
             "layout": "category",
             "radius": 50,
             "shadow": null,
@@ -180,6 +185,7 @@
             "marginRight": 10,
             "enableBorder": true,
             "imageSpacing": 0,
+            "isPreviewing": false,
             "marginBottom": 14,
             "noBackground": false,
             "gradientStyle": false,
@@ -197,6 +203,7 @@
         },
         {
             "fit": "cover",
+            "key": "UazZXxqPMo",
             "items": [
                 {
                     "key": "FWeeVSXYOK",
@@ -223,6 +230,7 @@
             "design": "default",
             "height": 0.55,
             "isBlur": false,
+            "isBulk": false,
             "layout": "bannerImage",
             "radius": 12,
             "padding": 0,
@@ -237,6 +245,7 @@
             "marginRight": 0,
             "intervalTime": 3,
             "isHorizontal": false,
+            "isPreviewing": false,
             "marginBottom": 0,
             "autoPlayVideo": false,
             "numberPadding": {
@@ -267,6 +276,7 @@
         },
         {
             "fit": "cover",
+            "key": "DmmryWPQyS",
             "items": [
                 {
                     "type": "image",
@@ -293,6 +303,7 @@
             ],
             "design": "static",
             "height": 0.2,
+            "isBulk": null,
             "layout": "bannerImage",
             "radius": 6,
             "padding": 0,
@@ -301,6 +312,7 @@
             "marginLeft": 10,
             "marginRight": 10,
             "isHorizontal": false,
+            "isPreviewing": null,
             "marginBottom": 0,
             "numberPadding": {
                 "end": 0,
@@ -325,6 +337,7 @@
         },
         {
             "fit": "fitWidth",
+            "key": "NmMMoEwbzD",
             "items": [
                 {
                     "type": "image",
@@ -351,6 +364,7 @@
             ],
             "design": "static",
             "height": 0.25,
+            "isBulk": null,
             "layout": "bannerImage",
             "radius": 6,
             "padding": 0,
@@ -359,6 +373,7 @@
             "marginLeft": 10,
             "marginRight": 10,
             "isHorizontal": false,
+            "isPreviewing": null,
             "marginBottom": 0,
             "numberPadding": {
                 "end": 0,
@@ -383,6 +398,7 @@
         },
         {
             "fit": "contain",
+            "key": "YKgNYSxVZB",
             "items": [
                 {
                     "key": "WRGVgGxVay",
@@ -438,6 +454,7 @@
             "design": "swiper",
             "height": 0.1,
             "isBlur": false,
+            "isBulk": null,
             "layout": "bannerImage",
             "radius": 2,
             "padding": 0,
@@ -452,6 +469,7 @@
             "marginRight": 0,
             "intervalTime": 2,
             "isHorizontal": false,
+            "isPreviewing": null,
             "marginBottom": 0,
             "autoPlayVideo": false,
             "numberPadding": {
@@ -481,15 +499,17 @@
             "doubleTapToFullScreen": false
         },
         {
-            "name": " New El New",
+            "key": "evUnjbrNkd",
+            "name": "New Arrival",
             "rows": 1,
-            "layout": "recentView",
+            "isBulk": null,
+            "layout": "carousel",
             "onSale": false,
             "columns": 3,
             "hMargin": 6,
             "useSort": false,
             "vMargin": 0,
-            "category": "gid://shopify/Collection/476370207028",
+            "category": "gid://shopify/Collection/440936399156",
             "hPadding": 6,
             "parallax": false,
             "vPadding": 2,
@@ -498,13 +518,14 @@
             "hideTitle": false,
             "showHeart": true,
             "titleLine": 1,
-            "cardDesign": "card",
+            "cardDesign": "simpleForWeb",
             "imageRatio": 1.2,
             "isSnapping": false,
             "hideAddress": false,
             "imageBoxfit": "cover",
             "borderRadius": 19,
-            "enableRating": true,
+            "enableRating": false,
+            "isPreviewing": null,
             "showCartIcon": true,
             "showCategory": false,
             "showQuantity": false,
@@ -531,6 +552,7 @@
         },
         {
             "fit": "fitWidth",
+            "key": "nXeGPmiQgn",
             "items": [
                 {
                     "type": "image",
@@ -545,6 +567,7 @@
             ],
             "design": "static",
             "height": 0.55,
+            "isBulk": null,
             "layout": "bannerImage",
             "radius": 0,
             "padding": 0,
@@ -553,6 +576,7 @@
             "marginLeft": 0,
             "marginRight": 0,
             "isHorizontal": false,
+            "isPreviewing": null,
             "marginBottom": 0,
             "numberPadding": {
                 "end": 0,
@@ -576,8 +600,10 @@
             "parallaxImageRatio": 1.2
         },
         {
+            "key": "wbkZsRWNjf",
             "name": " Basic Tops",
             "rows": 1,
+            "isBulk": null,
             "layout": "carousel",
             "onSale": false,
             "columns": 3,
@@ -600,6 +626,7 @@
             "imageBoxfit": "cover",
             "borderRadius": 19,
             "enableRating": false,
+            "isPreviewing": null,
             "showCartIcon": true,
             "showCategory": false,
             "showQuantity": false,
@@ -625,8 +652,10 @@
             "showCartButtonWithQuantity": false
         },
         {
+            "key": "MugoLdpVvY",
             "name": " Basic Tops",
             "rows": 1,
+            "isBulk": null,
             "layout": "recentView",
             "onSale": false,
             "columns": 3,
@@ -649,6 +678,7 @@
             "imageBoxfit": "cover",
             "borderRadius": 19,
             "enableRating": true,
+            "isPreviewing": null,
             "showCartIcon": true,
             "showCategory": false,
             "showQuantity": false,
@@ -1116,5 +1146,6 @@
         "subDrawerItem": {},
         "backgroundColor": null,
         "backgroundImage": null
-    }
+    },
+    "Datetime": "10:41:09 - Tue 4 Nov"
 }
